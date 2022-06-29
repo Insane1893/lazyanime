@@ -19,7 +19,7 @@
 # What is this repo about?
 This is a telegram bot writen with pyrogram for leeching files on the internet to Telegram.
 
-[Bot Demo](https://t.me/joinchat/HC7YmklXMSRPH3N2)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Insane1893/lazyanime)
 
 # Features
 - Leeching direct download links | Torrent | Magnets.
